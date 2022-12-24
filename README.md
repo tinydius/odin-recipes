@@ -1,2 +1,2 @@
 # odin-recipes
-This program will return a list of ingredients for a recipe
+This program will display a website that includes links to different pages and recipes.
